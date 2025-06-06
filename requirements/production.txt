@@ -2,8 +2,8 @@
 -r common.txt
 
 # Gunicorn
-gunicorn==19.7
-gevent==1.3a1
+gunicorn==23.0.0
+gevent==23.9.0
 
  # DB connector for Green Connections
 psycogreen==1.0
